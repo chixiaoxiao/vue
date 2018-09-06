@@ -1,0 +1,195 @@
+[class*=" handle-icon-"],[class^=handle-icon-]{display:inline-block;background:url(~@/assets/images/handle.png) no-repeat -4px -3px;width:26px;height:26px;vertical-align:top;margin:2px 5px 0 0; cursor: pointer;}
+.handle-icon-table-list{background-position: -338px -52px;}
+:hover > .handle-icon-table-list{background-position: -338px -78px;}
+.handle-icon-ul-list{background-position: -312px -52px;}
+:hover > .handle-icon-ul-list{background-position: -312px -78px;}
+/* 开/关机 */
+.handle-icon-on{background-position: 0 0;}
+:hover > .handle-icon-on{background-position: 0 -26px;}
+/* 关机 */
+.handle-icon-off{background-position: -26px 0;}
+:hover > .handle-icon-off{background-position: -26px -26px;}
+/* 重启 */
+.handle-icon-restart{background-position: -52px 0;}
+:hover > .handle-icon-restart{background-position: -52px -26px;}
+/* 删除 */
+.handle-icon-del{background-position: -78px 0;}
+:hover > .handle-icon-del{background-position: -78px -26px;}
+/* 绑定 */
+.handle-icon-lock{background-position: -104px 0;}
+:hover > .handle-icon-lock{background-position: -104px -26px;}
+/* 解绑 */
+.handle-icon-unlock{background-position: -130px 0;}
+:hover > .handle-icon-unlock{background-position: -130px -26px;}
+/* 标签 */
+.handle-icon-tag{background-position: -156px 0;}
+:hover > .handle-icon-tag{background-position: -156px -26px;}
+/* 续费 */
+.handle-icon-renew{background-position: -182px 0;}
+:hover > .handle-icon-renew{background-position: -182px -26px;}
+/* 更多 */
+.handle-icon-more{background-position: -208px 0;}
+:hover > .handle-icon-more{background-position: -208px -26px;}
+/* 远程登录 */
+.handle-icon-login{background-position: -234px 0;}
+:hover > .handle-icon-login{background-position: -234px -26px;}
+/* 断电 */
+.handle-icon-power{background-position: -260px 0;}
+:hover > .handle-icon-power{background-position: -260px -26px;}
+/* 断电灰 */
+.handle-icon-power-grey{background-position: -286px 0;}
+:hover > .handle-icon-power-grey{background-position: -286px -26px;}
+/* 镜像创建主机 */
+.handle-icon-schost{background-position: -312px 0;}
+:hover > .handle-icon-schost{background-position: -312px -26px;}
+/* 创建 */
+.handle-icon-new{background-position: 0 -52px;}
+:hover > .handle-icon-new{background-position: 0 -78px;}
+/* 升级 */
+.handle-icon-update{background-position: -26px -52px;}
+:hover > .handle-icon-update{background-position: -26px -78px;}
+/* 定时 */
+.handle-icon-time{background-position: -52px -52px;}
+:hover > .handle-icon-time{background-position: -52px -78px;}
+/* 编辑 */
+.handle-icon-edit{background-position: -78px -52px;}
+:hover > .handle-icon-edit{background-position: -78px -78px;}
+/* 权限组 */
+.handle-icon-jurisdiction{background-position: -104px -52px;}
+:hover > .handle-icon-jurisdiction{background-position: -104px -78px;}
+/* 高防IP */
+.handle-icon-defence{background-position: -130px -52px;}
+:hover > .handle-icon-defence{background-position: -130px -78px;}
+/* 备份 */
+.handle-icon-backup{background-position: 0 -104px;}
+:hover > .handle-icon-backup{background-position: 0 -130px;}
+/* 配置文件 */
+.handle-icon-file{background-position: -26px -104px;}
+:hover > .handle-icon-file{background-position: -26px -130px;}
+/* 备份中创建 */
+.handle-icon-backup-new{background-position: -52px -104px;}
+:hover > .handle-icon-backup-new{background-position: -52px -130px;}
+/* 在线编辑 */
+.handle-icon-online-edit{background-position: -78px -104px;}
+:hover > .handle-icon-online-edit{background-position: -78px -130px;}
+/* 应用到库 */
+.handle-icon-apply{background-position: -104px -104px;}
+:hover > .handle-icon-apply{background-position: -104px -130px;}
+/* 导入 */
+.handle-icon-import{background-position: -130px -104px;}
+:hover > .handle-icon-import{background-position: -130px -130px;}
+/* 慢查询分析 */
+.handle-icon-query{background-position: -156px -104px;}
+:hover > .handle-icon-query{background-position: -156px -130px;}
+/* 自动备份 */
+.handle-icon-auto-backup{background-position: -182px -104px;}
+:hover > .handle-icon-auto-backup{background-position: -182px -130px;}
+/* 数据回滚 */
+.handle-icon-back-data{background-position: -208px -104px;}
+:hover > .handle-icon-back-data{background-position: -208px -130px;}
+/* 编辑安全策略 */
+.handle-icon-edit-security{background-position: 0 -156px;}
+:hover > .handle-icon-edit-security{background-position: 0 -182px;}
+/* 访问设置 */
+.handle-icon-visit{background-position: -26px -156px;}
+:hover > .handle-icon-visit{background-position: -26px -182px;}
+/* 下载 */
+.handle-icon-download{background-position: -52px -156px;}
+:hover > .handle-icon-download{background-position: -52px -182px;}
+/* 误报拦截列表 */
+.handle-icon-wrong-list{background-position: -78px -156px;}
+:hover > .handle-icon-wrong-list{background-position: -78px -182px;}
+/* 常用IP登录 */
+.handle-icon-commonip{background-position: -104px -156px;}
+:hover > .handle-icon-commonip{background-position: -104px -182px;}
+/* 异地登陆 */
+.handle-icon-diflogin{background-position: -130px -156px;}
+:hover > .handle-icon-diflogin{background-position: -130px -182px;}
+/* 通知人 */
+.handle-icon-notifier{background-position: -156px -156px;}
+:hover > .handle-icon-notifier{background-position: -156px -182px;}
+/* 告警策略 */
+.handle-icon-monitor{background-position: -182px -156px;}
+:hover > .handle-icon-monitor{background-position: -182px -182px;}
+/* 可视化防攻击 */
+.handle-icon-attack{background-position: -208px -156px;}
+:hover > .handle-icon-attack{background-position: -208px -182px;}
+/* 添加负载均衡 */
+.handle-icon-add-nlb{background-position: -234px -156px;}
+:hover > .handle-icon-add-nlb{background-position: -234px -182px;}
+/* ??? */
+.handle-icon-icon1{background-position: -260px -156px;}
+:hover > .handle-icon-icon1{background-position: -260px -182px;}
+/* 转发设置 */
+.handle-icon-setting{background-position: -286px -156px;}
+:hover > .handle-icon-setting{background-position: -286px -182px;}
+/* 创建云主机 镜像图片 */
+[class*=' ghost-lager-'],[class^='ghost-lager-']{display:block;width:60px;height:60px;background:url("~@/assets/images/ghost.png") no-repeat;margin:8px auto 0;}
+.ghost-lager-windows{background-position:-60px -228px;}
+.active .ghost-lager-windows{background-position:0 -228px;}
+.ghost-lager-centos{background-position:-180px -228px;}
+.active .ghost-lager-centos{background-position:-120px -228px;}
+.ghost-lager-ubuntu{background-position:-300px -228px;}
+.active .ghost-icon-ubuntu{background-position:-240px -228px;}
+.ghost-lager-rhel{background-position:-60px -288px;}
+.active .ghost-lager-rhel{background-position:0 -288px;}
+.ghost-lager-debian{background-position:-180px -288px;}
+.active .ghost-lager-debian{background-position:-120px -288px;}
+/* 云主机列表 镜像图片 小 */
+[class*=' ghost-mini-'],[class^='ghost-mini-']{display:inline-block;width:32px;height:32px;background:url("~@/assets/images/ghost.png") no-repeat;}
+.ghost-mini-windows{background-position: 0 -164px;}
+.ghost-mini-centos{background-position: -32px -164px;}
+.ghost-mini-ubuntu{background-position: -64px -164px;}
+.ghost-mini-ohter{background-position: -96px -164px;}
+.ghost-mini-rhel{background-position: -160px -164px;}
+.ghost-mini-debian{background-position: -192px -164px;}
+.ghost-mini-integration{background-position: -128px -164px;}
+.ghost-mini-windows-grey{background-position: 0 -196px;}
+.ghost-mini-centos-grey{background-position: -32px -196px;}
+.ghost-mini-ubuntu-grey{background-position: -64px -196px;}
+.ghost-mini-ohter-grey{background-position: -96px -196px;}
+.ghost-mini-rhel-grey{background-position: -160px -196px;}
+.ghost-mini-debian-grey{background-position: -192px -196px;}
+.ghost-mini-integration-grey{background-position: -128px -196px;}
+/* 云主机列表 镜像图片 大*/
+[class*=' ghost-small-'],[class^='ghost-small-']{display:block;width:41px;height:41px;margin: auto;background:url("~@/assets/images/ghost.png") no-repeat;}
+.ghost-small-windows{background-position: 0 -80px;}
+.ghost-small-centos{background-position: -41px -80px;}
+.ghost-small-ubuntu{background-position: -82px -80px;}
+.ghost-small-ohter{background-position: -123px -80px;}
+.ghost-small-rhel{background-position: -205px -80px;}
+.ghost-small-debian{background-position: -246px -80px;}
+.ghost-small-integration{background-position: -164 -80px;}
+.ghost-small-windows-grey{background-position: 0 -121px;}
+.ghost-small-centos-grey{background-position: -41px -121px;}
+.ghost-small-ubuntu-grey{background-position: -82px -121px;}
+.ghost-small-ohter-grey{background-position: -123px -121px;}
+.ghost-small-rhel-grey{background-position: -205px -121px;}
+.ghost-small-debian-grey{background-position: -246px -121px;}
+.ghost-small-integration-grey{background-position: -164 -121px;}
+/* 云主机列表 网络模式 主机背景*/
+[class*=' host-bg'],[class^='host-bg']{display:block;width:100px;height:83px;background:url("~@/assets/images/host.png") no-repeat;}
+.host-bg-add{background-position: -105px 0;}
+.host-bg-add:hover{background-position: 0 0;}
+.host-bg-vm{background-position: -210px 0;}
+.host-bg-uvm{background-position: -210px -85px;}
+/* 小图标集合*/
+[class*=' bigger-'],[class^='bigger-']{display:inline-block;width:25px;height:25px;background:url("~@/assets/images/icon.png") no-repeat; vertical-align: middle;}
+.bigger-present{background-position: 0px 0px;}
+.bigger-flow-chart{background-position: -25px 0px;}
+.bigger-edit-btn{background-position: -50px 0px;}
+.bigger-edit-btn:hover{background-position: -75px 0px;}
+.bigger-del-btn{background-position: -100px 0px;}
+.bigger-del-btn:hover{background-position: -125px 0px;}
+.bigger-return-btn{background-position: -150px 0px;}
+:hover > .bigger-return-btn{background-position: -175px 0px;}
+.bigger-back-auto{background-position: -200px 0px;}
+.bigger-back-diy{background-position: -225px 0px;}
+.bigger-help-symbol{background-position: 0 -25px;}
+.bigger-menu-compute{background-position: -50px -25px;}
+.bigger-menu-network{background-position: -75px -25px;}
+.bigger-menu-safety{background-position: -100px -25px;}
+.bigger-menu-database{background-position: -125px -25px;}
+.bigger-menu-storage{background-position: -150px -25px;}
+.bigger-menu-tool{background-position: -175px -25px;}
+.bigger-slave{background-position: -200px -25px;}
